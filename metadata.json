@@ -1,0 +1,6 @@
+{
+  "name": "Kaushal Setu",
+  "description": "AI-Powered Academia–Industry Skill Mapping & Collaboration Platform connecting District Skill Committees, Vocational Institutions, Employers, and Trainees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
